@@ -1,0 +1,296 @@
+Middelburg  -  Den Helder 267
+Heerenveen  -  Den Helder 235
+Maastricht  -  Den Helder 236
+[267, 235, 236, 738]
+Den Helder
+Middelburg  -  Hoorn 201
+Heerenveen  -  Hoorn 169
+Maastricht  -  Hoorn 190
+[201, 169, 190, 560]
+Hoorn
+Middelburg  -  Enkhuizen 232
+Heerenveen  -  Enkhuizen 200
+Maastricht  -  Enkhuizen 221
+[232, 200, 221, 653]
+Enkhuizen
+Middelburg  -  Alkmaar 213
+Heerenveen  -  Alkmaar 151
+Maastricht  -  Alkmaar 182
+[213, 151, 182, 546]
+Alkmaar
+Middelburg  -  Beverwijk 197
+Heerenveen Beverwijk Error
+Maastricht  -  Beverwijk 191
+[197, 0, 191, 388]
+Beverwijk
+Middelburg  -  Haarlem 159
+Heerenveen Haarlem Error
+Maastricht  -  Haarlem 168
+[159, 0, 168, 327]
+Haarlem
+Middelburg Amsterdam Centraal Error
+Heerenveen  -  Amsterdam Centraal 111
+Maastricht  -  Amsterdam Centraal 144
+[0, 111, 144, 255]
+Amsterdam Centraal
+Middelburg  -  Amsterdam Amstel 167
+Heerenveen  -  Amsterdam Amstel 124
+Maastricht  -  Amsterdam Amstel 136
+[167, 124, 136, 427]
+Amsterdam Amstel
+Middelburg Hilversum Error
+Heerenveen  -  Hilversum 102
+Maastricht  -  Hilversum 149
+[0, 102, 149, 251]
+Hilversum
+Middelburg  -  Leeuwarden 284
+Heerenveen Leeuwarden Error
+Maastricht  -  Leeuwarden 253
+[284, 0, 253, 537]
+Leeuwarden
+Middelburg  -  Heerenveen 266
+Heerenveen Heerenveen Error
+Maastricht Heerenveen Error
+[266, 0, 0, 266]
+Heerenveen
+Middelburg Steenwijk Error
+Heerenveen Steenwijk Error
+Maastricht Steenwijk Error
+[0, 0, 0, 0]
+Steenwijk
+Middelburg  -  Groningen 282
+Heerenveen  -  Groningen 84
+Maastricht  -  Groningen 251
+[282, 84, 251, 617]
+Groningen
+Middelburg  -  Assen 265
+Heerenveen  -  Assen 63
+Maastricht  -  Assen 234
+[265, 63, 234, 562]
+Assen
+Middelburg  -  Zwolle 220
+Heerenveen Zwolle Error
+Maastricht  -  Zwolle 189
+[220, 0, 189, 409]
+Zwolle
+Middelburg Enschede Error
+Heerenveen  -  Enschede 114
+Maastricht  -  Enschede 223
+[0, 114, 223, 337]
+Enschede
+Middelburg Oldenzaal Error
+Heerenveen  -  Oldenzaal 116
+Maastricht Oldenzaal Error
+[0, 116, 0, 116]
+Oldenzaal
+Middelburg  -  Hengelo 224
+Heerenveen  -  Hengelo 101
+Maastricht  -  Hengelo 214
+[224, 101, 214, 539]
+Hengelo
+Middelburg  -  Almelo 234
+Heerenveen  -  Almelo 88
+Maastricht  -  Almelo 203
+[234, 88, 203, 525]
+Almelo
+Middelburg Maastricht Error
+Heerenveen  -  Maastricht 238
+Maastricht Maastricht Error
+[0, 238, 0, 238]
+Maastricht
+Middelburg  -  Heerlen 218
+Heerenveen  -  Heerlen 246
+Maastricht Heerlen Error
+[218, 246, 0, 464]
+Heerlen
+Middelburg  -  Geleen Oost 202
+Heerenveen  -  Geleen Oost 230
+Maastricht Geleen Oost Error
+[202, 230, 0, 432]
+Geleen Oost
+Middelburg  -  Sittard 195
+Heerenveen  -  Sittard 223
+Maastricht Sittard Error
+[195, 223, 0, 418]
+Sittard
+Middelburg  -  Roermond 179
+Heerenveen Roermond Error
+Maastricht Roermond Error
+[179, 0, 0, 179]
+Roermond
+Middelburg Weert Error
+Heerenveen  -  Weert 192
+Maastricht Weert Error
+[0, 192, 0, 192]
+Weert
+Middelburg  -  Venlo 178
+Heerenveen  -  Venlo 206
+Maastricht  -  Venlo 76
+[178, 206, 76, 460]
+Venlo
+Middelburg  -  Helmond 148
+Heerenveen Helmond Error
+Maastricht  -  Helmond 87
+[148, 0, 87, 235]
+Helmond
+Middelburg  -  Eindhoven 129
+Heerenveen  -  Eindhoven 162
+Maastricht  -  Eindhoven 61
+[129, 162, 61, 352]
+Eindhoven
+Middelburg Vlissingen Error
+Heerenveen  -  Vlissingen 276
+Maastricht  -  Vlissingen 217
+[0, 276, 217, 493]
+Vlissingen
+Middelburg Middelburg Error
+Heerenveen  -  Middelburg 268
+Maastricht  -  Middelburg 209
+[0, 268, 209, 477]
+Middelburg
+Middelburg Goes Error
+Heerenveen  -  Goes 253
+Maastricht  -  Goes 194
+[0, 253, 194, 447]
+Goes
+Middelburg Kruiningen-Yerseke Error
+Heerenveen Kruiningen-Yerseke Error
+Maastricht  -  Kruiningen-Yerseke 183
+[0, 0, 183, 183]
+Kruiningen-Yerseke
+Middelburg Bergen op Zoom Error
+Heerenveen  -  Bergen op Zoom 223
+Maastricht  -  Bergen op Zoom 164
+[0, 223, 164, 387]
+Bergen op Zoom
+Middelburg Roosendal Error
+Heerenveen Roosendal Error
+Maastricht Roosendal Error
+[0, 0, 0, 0]
+Roosendal
+Middelburg  -  Breda 75
+Heerenveen  -  Breda 182
+Maastricht  -  Breda 110
+[75, 182, 110, 367]
+Breda
+Middelburg  -  Tilburg 93
+Heerenveen Tilburg Error
+Maastricht  -  Tilburg 95
+[93, 0, 95, 188]
+Tilburg
+Middelburg  -  's-Hertogenbosch 110
+Heerenveen  -  's-Hertogenbosch 140
+Maastricht  -  's-Hertogenbosch 84
+[110, 140, 84, 334]
+'s-Hertogenbosch
+Middelburg  -  Oss 126
+Heerenveen  -  Oss 143
+Maastricht  -  Oss 109
+[126, 143, 109, 378]
+Oss
+Middelburg  -  Nijmegen 141
+Heerenveen  -  Nijmegen 124
+Maastricht  -  Nijmegen 132
+[141, 124, 132, 397]
+Nijmegen
+Middelburg  -  Arnhem 158
+Heerenveen  -  Arnhem 109
+Maastricht  -  Arnhem 153
+[158, 109, 153, 420]
+Arnhem
+Middelburg  -  Dieren 173
+Heerenveen  -  Dieren 95
+Maastricht  -  Dieren 172
+[173, 95, 172, 440]
+Dieren
+Middelburg  -  Zutphen 183
+Heerenveen  -  Zutphen 85
+Maastricht  -  Zutphen 182
+[183, 85, 182, 450]
+Zutphen
+Middelburg  -  Deventer 196
+Heerenveen  -  Deventer 71
+Maastricht  -  Deventer 176
+[196, 71, 176, 443]
+Deventer
+Middelburg Apeldoom Error
+Heerenveen Apeldoom Error
+Maastricht Apeldoom Error
+[0, 0, 0, 0]
+Apeldoom
+Middelburg  -  Amersfoort 170
+Heerenveen  -  Amersfoort 83
+Maastricht  -  Amersfoort 139
+[170, 83, 139, 392]
+Amersfoort
+Middelburg  -  Utrecht Centraal 146
+Heerenveen  -  Utrecht Centraal 99
+Maastricht  -  Utrecht Centraal 115
+[146, 99, 115, 360]
+Utrecht Centraal
+Middelburg  -  Ede-Wageningen 176
+Heerenveen  -  Ede-Wageningen 131
+Maastricht  -  Ede-Wageningen 152
+[176, 131, 152, 459]
+Ede-Wageningen
+Middelburg  -  Driebergen-Zeist 167
+Heerenveen  -  Driebergen-Zeist 124
+Maastricht  -  Driebergen-Zeist 136
+[167, 124, 136, 427]
+Driebergen-Zeist
+Middelburg  -  Gouda 128
+Heerenveen  -  Gouda 119
+Maastricht  -  Gouda 140
+[128, 119, 140, 387]
+Gouda
+Middelburg  -  Dordrecht 83
+Heerenveen  -  Dordrecht 170
+Maastricht  -  Dordrecht 151
+[83, 170, 151, 404]
+Dordrecht
+Middelburg  -  Zandvoort aan Zee 176
+Heerenveen  -  Zandvoort aan Zee 174
+Maastricht  -  Zandvoort aan Zee 205
+[176, 174, 205, 555]
+Zandvoort aan Zee
+Middelburg Schiphol Airport Error
+Heerenveen  -  Schiphol Airport 113
+Maastricht  -  Schiphol Airport 160
+[0, 113, 160, 273]
+Schiphol Airport
+Middelburg  -  Amsterdam RAI 172
+Heerenveen  -  Amsterdam RAI 125
+Maastricht Amsterdam RAI Error
+[172, 125, 0, 297]
+Amsterdam RAI
+Middelburg  -  Leiden 135
+Heerenveen  -  Leiden 131
+Maastricht Leiden Error
+[135, 131, 0, 266]
+Leiden
+Middelburg  -  Den Haag HS 121
+Heerenveen  -  Den Haag HS 145
+Maastricht  -  Den Haag HS 156
+[121, 145, 156, 422]
+Den Haag HS
+Middelburg  -  Den Haag Centraal 126
+Heerenveen  -  Den Haag Centraal 139
+Maastricht  -  Den Haag Centraal 161
+[126, 139, 161, 426]
+Den Haag Centraal
+Middelburg Voorburg Error
+Heerenveen  -  Voorburg 145
+Maastricht  -  Voorburg 176
+[0, 145, 176, 321]
+Voorburg
+Middelburg  -  Delft 114
+Heerenveen  -  Delft 153
+Maastricht  -  Delft 147
+[114, 153, 147, 414]
+Delft
+Middelburg  -  Rotterdam Centraal 99
+Heerenveen  -  Rotterdam Centraal 143
+Maastricht  -  Rotterdam Centraal 135
+[99, 143, 135, 377]
+Rotterdam Centraal
+[[267, 235, 236, 738], [201, 169, 190, 560], [232, 200, 221, 653], [213, 151, 182, 546], [197, 0, 191, 388], [159, 0, 168, 327], [0, 111, 144, 255], [167, 124, 136, 427], [0, 102, 149, 251], [284, 0, 253, 537], [266, 0, 0, 266], [0, 0, 0, 0], [282, 84, 251, 617], [265, 63, 234, 562], [220, 0, 189, 409], [0, 114, 223, 337], [0, 116, 0, 116], [224, 101, 214, 539], [234, 88, 203, 525], [0, 238, 0, 238], [218, 246, 0, 464], [202, 230, 0, 432], [195, 223, 0, 418], [179, 0, 0, 179], [0, 192, 0, 192], [178, 206, 76, 460], [148, 0, 87, 235], [129, 162, 61, 352], [0, 276, 217, 493], [0, 268, 209, 477], [0, 253, 194, 447], [0, 0, 183, 183], [0, 223, 164, 387], [0, 0, 0, 0], [75, 182, 110, 367], [93, 0, 95, 188], [110, 140, 84, 334], [126, 143, 109, 378], [141, 124, 132, 397], [158, 109, 153, 420], [173, 95, 172, 440], [183, 85, 182, 450], [196, 71, 176, 443], [0, 0, 0, 0], [170, 83, 139, 392], [146, 99, 115, 360], [176, 131, 152, 459], [167, 124, 136, 427], [128, 119, 140, 387], [83, 170, 151, 404], [176, 174, 205, 555], [0, 113, 160, 273], [172, 125, 0, 297], [135, 131, 0, 266], [121, 145, 156, 422], [126, 139, 161, 426], [0, 145, 176, 321], [114, 153, 147, 414], [99, 143, 135, 377]]
